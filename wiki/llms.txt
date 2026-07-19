@@ -1,0 +1,15 @@
+# Junk En Poy — Wiki
+
+> OKF v0.1 knowledge bundle for Junk En Poy LLC, a locally owned junk removal and hauling service in Summit County, Colorado. Booking is by call or text only: 970-485-8701.
+
+## Pages
+- [About](about.md): Who we are, how it works, why customers choose us.
+- [Services](services.md): Furniture, appliances, mattresses, cleanouts, yard/construction debris, hot tubs, property cleanouts.
+- [Service Area](service-area.md): Breckenridge, Frisco, Silverthorne, Dillon, Keystone, Blue River.
+- [Pricing & Estimates](pricing.md): Free same-day estimates; text a photo to 970-485-8701.
+- [How to Book](booking.md): Call or text a photo — no web form.
+- [FAQ](faq.md): Common questions answered.
+
+## Contact
+- Call/Text: 970-485-8701
+- Email: junkenpoy@gmail.com
