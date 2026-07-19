@@ -31,7 +31,7 @@ JSONLD = '''<script type="application/ld+json">
   "description": "Locally owned junk removal and hauling service in Summit County, Colorado.",
   "telephone": "+1-970-485-8701",
   "email": "junkenpoy@gmail.com",
-  "url": "https://techykamatis.github.io/junkenpoy/",
+  "url": "https://junkenpoy.com/",
   "areaServed": [
     {"@type": "City", "name": "Breckenridge"},
     {"@type": "City", "name": "Frisco"},
@@ -142,16 +142,16 @@ def render(md_path):
 <meta property="og:site_name" content="Junk En Poy LLC">
 <meta property="og:title" content="{page_title}">
 <meta property="og:description" content="{desc}">
-<meta property="og:url" content="https://techykamatis.github.io/junkenpoy/wiki/{slug}.html">
-<meta property="og:image" content="https://techykamatis.github.io/junkenpoy/og-20260719-113927.png">
+<meta property="og:url" content="https://junkenpoy.com/wiki/{slug}.html">
+<meta property="og:image" content="https://junkenpoy.com/og-20260719-113927.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Junk En Poy — Junk Removal & Hauling, Summit County CO.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{page_title}">
 <meta name="twitter:description" content="{desc}">
-<meta name="twitter:image" content="https://techykamatis.github.io/junkenpoy/og-20260719-113927.png">
-<link rel="canonical" href="https://techykamatis.github.io/junkenpoy/wiki/{slug}.html">
+<meta name="twitter:image" content="https://junkenpoy.com/og-20260719-113927.png">
+<link rel="canonical" href="https://junkenpoy.com/wiki/{slug}.html">
 <style>{CSS}</style>
 {JSONLD}
 </head>
