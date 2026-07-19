@@ -19,7 +19,7 @@ on your end, no hidden fees.
 2. **Get a free estimate.** We reply with fair, up-front pricing — usually the same day.
 3. **We haul it away.** The crew does all the loading and disposes of everything responsibly.
 
-See [How to Book](booking.md) for the full booking steps and [Pricing & Estimates](pricing.md) for how price is determined.
+See [How to Book](/booking.md) for the full booking steps and [Pricing & Estimates](/pricing.md) for how price is determined.
 
 ## Why customers choose us
 
@@ -32,5 +32,5 @@ See [How to Book](booking.md) for the full booking steps and [Pricing & Estimate
 
 ## Related pages
 
-* [Services](services.md) - The full list of what we haul.
-* [Service Area](service-area.md) - Towns we cover across Summit County.
+* [Services](/services.md) - The full list of what we haul.
+* [Service Area](/service-area.md) - Towns we cover across Summit County.

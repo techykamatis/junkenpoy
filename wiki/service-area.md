@@ -23,5 +23,5 @@ let you know right away.
 
 ## Related pages
 
-* [Services](services.md) - What we haul.
-* [How to Book](booking.md) - Schedule a pickup.
+* [Services](/services.md) - What we haul.
+* [How to Book](/booking.md) - Schedule a pickup.

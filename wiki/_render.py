@@ -115,7 +115,10 @@ def render(md_path):
     desc = meta.get("description", "Locally owned junk removal in Summit County, CO. Call or text 970-485-8701.")
 
     html_body = markdown.markdown(body, extensions=["extra", "sane_lists"])
-    html_body = re.sub(r'href="([^":]+?)\.md"', r'href="\1.html"', html_body)
+    # OKF links are absolute bundle-relative (/page.md). This is a flat bundle, so map
+    # /page.md and page.md alike to the sibling page.html for the published site.
+    html_body = re.sub(r'href="/([^"/:]+?)\.md"', r'href="\1.html"', html_body)
+    html_body = re.sub(r'href="([^":/]+?)\.md"', r'href="\1.html"', html_body)
     # Drop the leading H1 (we render our own header block) to avoid duplication.
     html_body = re.sub(r"^\s*<h1>.*?</h1>", "", html_body, count=1, flags=re.S)
 

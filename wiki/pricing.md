@@ -29,5 +29,5 @@ there are no surprise fees.
 
 ## Related pages
 
-* [How to Book](booking.md) - The two ways to schedule.
-* [Services](services.md) - What we haul.
+* [How to Book](/booking.md) - The two ways to schedule.
+* [Services](/services.md) - What we haul.

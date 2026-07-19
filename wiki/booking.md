@@ -30,5 +30,5 @@ job. We'll give you a free estimate over the phone.
 
 ## Related pages
 
-* [Pricing & Estimates](pricing.md) - How pricing works.
-* [Service Area](service-area.md) - Towns we cover.
+* [Pricing & Estimates](/pricing.md) - How pricing works.
+* [Service Area](/service-area.md) - Towns we cover.

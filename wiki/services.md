@@ -28,5 +28,5 @@ in a truck, text a photo to [970-485-8701](sms:+19704858701) and we'll quote it.
 * We're **fully insured**.
 * Disposal is handled **responsibly**, with items donated or recycled where possible.
 
-Not sure if we take your item? Just ask — see [How to Book](booking.md). For pricing,
-see [Pricing & Estimates](pricing.md).
+Not sure if we take your item? Just ask — see [How to Book](/booking.md). For pricing,
+see [Pricing & Estimates](/pricing.md).
