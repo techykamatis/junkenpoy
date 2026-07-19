@@ -49,7 +49,7 @@ JSONLD = '''<script type="application/ld+json">
 </script>'''
 
 CSS = '''
-:root{--ink:#1a1d1a;--paper:#f7f6f1;--green:#2e7d32;--green-d:#1b5e20;--accent:#f4a300;--muted:#5c6560;--line:#e3e1d8}
+:root{--ink:#141414;--paper:#F4F4F1;--green:#797034;--green-d:#453F1C;--accent:#9DBF3B;--muted:#5E5627;--line:#E4E1C4}
 *{box-sizing:border-box}
 body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--paper);line-height:1.65}
 a{color:var(--green-d)}
@@ -68,7 +68,7 @@ h2{font-size:1.35rem;margin:2rem 0 .6rem;padding-top:.4rem;border-top:2px solid 
 h1+*,h2+*{margin-top:.4rem}
 ul{padding-left:1.2rem}
 li{margin:.25rem 0}
-.pill{display:inline-block;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.5px;color:var(--green-d);background:#e4efe4;border:1px solid #cfe3cf;padding:.15rem .5rem;border-radius:999px;margin-bottom:.7rem}
+.pill{display:inline-block;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.5px;color:var(--green-d);background:#F1F0DE;border:1px solid #E4E1C4;padding:.15rem .5rem;border-radius:999px;margin-bottom:.7rem}
 .cta{margin:1.6rem 0;padding:1.1rem 1.2rem;background:#fff;border:1px solid var(--line);border-left:5px solid var(--accent);border-radius:10px}
 .cta a.big{display:inline-block;background:var(--green-d);color:#fff;font-weight:800;text-decoration:none;padding:.7rem 1.2rem;border-radius:999px;margin-top:.5rem}
 footer{background:var(--ink);color:#cfd3cf;font-size:.9rem}
@@ -143,8 +143,8 @@ def render(md_path):
 <meta property="og:title" content="{page_title}">
 <meta property="og:description" content="{desc}">
 <meta property="og:url" content="https://junkenpoy.com/wiki/{slug}.html">
-<meta property="og:image" content="https://junkenpoy.com/og-20260719-144315.jpg">
-<meta property="og:image:secure_url" content="https://junkenpoy.com/og-20260719-144315.jpg">
+<meta property="og:image" content="https://junkenpoy.com/og-20260719-144936.jpg">
+<meta property="og:image:secure_url" content="https://junkenpoy.com/og-20260719-144936.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -152,7 +152,7 @@ def render(md_path):
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{page_title}">
 <meta name="twitter:description" content="{desc}">
-<meta name="twitter:image" content="https://junkenpoy.com/og-20260719-144315.jpg">
+<meta name="twitter:image" content="https://junkenpoy.com/og-20260719-144936.jpg">
 <link rel="canonical" href="https://junkenpoy.com/wiki/{slug}.html">
 <style>{CSS}</style>
 {JSONLD}
