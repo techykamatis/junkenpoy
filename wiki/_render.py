@@ -143,14 +143,14 @@ def render(md_path):
 <meta property="og:title" content="{page_title}">
 <meta property="og:description" content="{desc}">
 <meta property="og:url" content="https://techykamatis.github.io/junkenpoy/wiki/{slug}.html">
-<meta property="og:image" content="https://techykamatis.github.io/junkenpoy/og-image.png">
+<meta property="og:image" content="https://techykamatis.github.io/junkenpoy/og-20260719-113927.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Junk En Poy — Junk Removal & Hauling, Summit County CO.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{page_title}">
 <meta name="twitter:description" content="{desc}">
-<meta name="twitter:image" content="https://techykamatis.github.io/junkenpoy/og-image.png">
+<meta name="twitter:image" content="https://techykamatis.github.io/junkenpoy/og-20260719-113927.png">
 <link rel="canonical" href="https://techykamatis.github.io/junkenpoy/wiki/{slug}.html">
 <style>{CSS}</style>
 {JSONLD}
