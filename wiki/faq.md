@@ -23,7 +23,8 @@ Summit County, Colorado — Breckenridge, Frisco, Silverthorne, Dillon, Keystone
 Blue River. Full list on the [Service Area](/service-area.md) page.
 
 **What can you take?**
-Furniture, appliances, mattresses, yard and construction debris, hot tubs, and full
+Hot tubs, carpet, construction debris, yard debris and small trees, garage and
+household junk, mattresses, storage unit cleanouts, furniture, appliances, and full
 property cleanouts. The complete list is on the [Services](/services.md) page.
 
 **Are you insured?**

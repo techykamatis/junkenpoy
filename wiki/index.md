@@ -24,5 +24,5 @@ both people and AI assistants can read it cleanly.
 
 * **Phone / text:** [970-485-8701](tel:+19704858701)
 * **Email:** [junkenpoy@gmail.com](mailto:junkenpoy@gmail.com)
-* **Area:** Summit County, CO — Breckenridge, Frisco, Silverthorne, Dillon, Keystone, Blue River
+* **Area:** Summit County, CO — Breckenridge, Frisco, Silverthorne, Dillon, Keystone, Blue River — and neighboring counties
 * **Estimates:** Free, no-obligation, usually same-day

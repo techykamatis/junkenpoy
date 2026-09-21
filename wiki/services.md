@@ -1,7 +1,7 @@
 ---
 type: Reference
 title: Services
-description: Everything Junk En Poy hauls away — furniture, appliances, cleanouts, debris, and more.
+description: Everything Junk En Poy hauls away — hot tubs, carpet, construction and yard debris, cleanouts, furniture, appliances, and more.
 tags: [services, junk-removal, hauling]
 timestamp: 2026-07-19T00:00:00Z
 ---
@@ -13,13 +13,15 @@ in a truck, text a photo to [970-485-8701](sms:+19704858701) and we'll quote it.
 
 ## What we haul
 
-* **Furniture removal** — couches, dressers, tables, any room, any size.
-* **Appliance removal** — fridges, washers, dryers, water heaters.
-* **Mattress & box spring removal** — any size, disposed of responsibly.
-* **Garage & household cleanouts** — clutter, boxes, general junk.
-* **Yard debris** — branches, brush, and outdoor cleanup.
-* **Construction debris** — remodel leftovers, drywall, lumber.
 * **Hot tub removal** — broken down on site and hauled out.
+* **Carpet removal** — old carpet and padding pulled, cut, and hauled out.
+* **Construction debris** — remodel leftovers, drywall, lumber, tile.
+* **Yard debris & small trees** — small tree cutting, branch removal, other yard debris and hauling.
+* **Garage & household cleanouts** — clutter, boxes, general junk.
+* **Mattress & box spring removal** — any size, disposed of responsibly.
+* **Storage unit cleanouts** — emptied down to bare walls and swept out.
+* **Furniture removal** — couches, dressers, tables, any room, any size.
+* **Appliance removal** — fridges, washers, dryers, water heaters, TVs.
 * **Property cleanouts** — apartment, rental, estate, and eviction cleanouts.
 
 ## Good to know

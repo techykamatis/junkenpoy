@@ -4,8 +4,8 @@
 
 ## Pages
 - [About](about.md): Who we are, how it works, why customers choose us.
-- [Services](services.md): Furniture, appliances, mattresses, cleanouts, yard/construction debris, hot tubs, property cleanouts.
-- [Service Area](service-area.md): Breckenridge, Frisco, Silverthorne, Dillon, Keystone, Blue River.
+- [Services](services.md): Hot tubs, carpet, construction debris, yard debris & small trees, garage/household junk, mattresses, storage unit cleanouts, furniture, appliances, property cleanouts.
+- [Service Area](service-area.md): Breckenridge, Frisco, Silverthorne, Dillon, Keystone, Blue River, and neighboring counties.
 - [Pricing & Estimates](pricing.md): Free same-day estimates; text a photo to 970-485-8701.
 - [How to Book](booking.md): Call or text a photo — no web form.
 - [FAQ](faq.md): Common questions answered.
